@@ -1,0 +1,13 @@
+Q0 (e,e) Q2|R
+Q2 (1,1) Q2|R
+Q2 (e,e) Q3|R
+Q3 (1,1) Q3|R
+Q3 (e,e) Q4|L
+Q4 (1,e) Q5|L
+Q4 (e,e) QF|R
+Q5 (1,1) Q5|L
+Q5 (e,e) Q6|L
+Q6 (1,1) Q6|L
+Q6 (e,e) Q7|R
+Q7 (1,e) Q2|R
+QQ (@,_) Q0|R
